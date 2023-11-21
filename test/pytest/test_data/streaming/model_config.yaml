@@ -1,3 +1,0 @@
-continuousBatching: true
-handler:
- modelId: gpt2
