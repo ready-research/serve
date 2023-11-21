@@ -1,9 +1,0 @@
-[
-    [
-        {
-            "role": "user",
-            "content": "what is the recipe of mayonnaise?"
-        }
-    ]
-    
-]
